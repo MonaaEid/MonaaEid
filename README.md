@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mona Eid</h1>
 <h3 align="center">A passionate backend developer</h3>
-<div style="width:50%; height:50%" >
+<div style="width:30%; height:30%" >
 <img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" alt="monaaeid" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monaaeid&label=Profile%20views&color=0e75b6&style=flat" alt="monaaeid" /> </p>
