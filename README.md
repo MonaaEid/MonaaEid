@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mona Eid</h1>
 <h3 align="center">A passionate backend developer</h3>
+![image](https://github.com/user-attachments/assets/c1de9c38-cb00-4882-a6c2-67381971af6d)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monaaeid&label=Profile%20views&color=0e75b6&style=flat" alt="monaaeid" /> </p>
 
